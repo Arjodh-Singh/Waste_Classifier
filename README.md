@@ -8,4 +8,4 @@ You can run the app by command:
 2-Then run this command in terminal :
 streamlit run Waste_Classifier_App.py
 
-Note:Model was too large to upload here. I have attached in assignment submission.
+
